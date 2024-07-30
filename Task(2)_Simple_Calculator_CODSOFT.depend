@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721503700 source:c:\users\user\documents\files code\task(2)_simple_calculator_codsoft\main.cpp
+	<iostream>
+	<limits>
+	<sstream>
+	<string>
+
